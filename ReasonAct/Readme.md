@@ -35,9 +35,9 @@ To use with real tools, just replace the simulated functions (search_web, get_we
 Prerequisites:
 
 1. Install python
-2. Add anthropic key to env.sh
+2. Add anthropic key to ../utils/env.sh
 3. Set up the enviornment
-   . ./env.sh
+   . ../utils/env.sh
 4. pip install anthropic
 5. pip install pip-system-certs
 
